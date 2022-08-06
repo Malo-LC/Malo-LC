@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a french software engineering student at [EFREI](https://www.efrei.fr).
+I am a french software engineering student at [EFREI Paris](https://www.efrei.fr).
 
 I'm looking for an internship for 5 month starting in November 2022.
 
