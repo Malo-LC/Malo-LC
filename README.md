@@ -13,6 +13,7 @@ I'm looking for an internship for 5 month starting in November 2022.
 - [SafeVote](https://github.com/Malo-LC/SafeVote): Online voting app (**Javascript**, CSS, **React**, MySQL)
 - [BlindTest](https://github.com/Malo-LC/BlindTest): Music game to play with friends written with Javascript and Socket.io and React/Node
 - [TheorieGraphe](https://github.com/Malo-LC/TheorieGraphe): Graph Theory project written in Python. [Wiki](https://en.wikipedia.org/wiki/Graph_theory)
+- [VSB Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC): Simple CRUD project with Music, written in Javascript. 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malo-LC)
