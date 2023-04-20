@@ -16,4 +16,4 @@ I am a french software engineering student at [EFREI Paris](https://www.efrei.fr
 - [VSB Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC): Simple CRUD project with Music, written in Javascript. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malo-LC)
+![Top Langs]( https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
