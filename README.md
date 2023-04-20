@@ -15,5 +15,9 @@ I am a french software engineering student at [EFREI Paris](https://www.efrei.fr
 - [TheorieGraphe](https://github.com/Malo-LC/TheorieGraphe): Graph Theory project written in Python. [Wiki](https://en.wikipedia.org/wiki/Graph_theory)
 - [VSB Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC): Simple CRUD project with Music, written in Javascript. 
 
+#### Personal 🏖
+
+- [Uno](https://github.com/VengaGames/Uno): The Uno game in your browser ! (**Javascript**, Tailwind, **React**, Socket.io)
+
 
 ![Top Langs]( https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
