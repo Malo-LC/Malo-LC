@@ -2,7 +2,7 @@
 
 I am a french software engineering student at [EFREI Paris](https://www.efrei.fr).
 
-I'm looking for an internship for 5 month starting in November 2022.
+
 
 <a href="https://www.linkedin.com/in/malo-le-corvec-6ab98019a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
