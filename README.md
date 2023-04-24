@@ -17,7 +17,8 @@ I am a french software engineering student at [EFREI Paris](https://www.efrei.fr
 
 #### Personal 🏖
 
-- [Uno](https://github.com/VengaGames/Uno): The Uno game in your browser ! (**Javascript**, Tailwind, **React**, Socket.io)
+- [Uno](https://github.com/VengaGames/Uno): The Uno game in your browser ! (**Javascript**, Tailwind, **React**, Socket.io, **Node**)
+- [RandoMovie](https://github.com/Malo-LC/RandomMovie): Get random movie and actors suggestions, and recommendations (**Javascript**, Tailwind, **React**, Node)
 
 
 ![Top Langs]( https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
