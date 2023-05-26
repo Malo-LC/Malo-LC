@@ -10,15 +10,15 @@ I am a french software engineering student at [EFREI Paris](https://www.efrei.fr
 
 #### School 👨‍🎓
 
+- [BlindTest](https://github.com/Malo-LC/BlindTest): Music game to play with friends, play with your personal playlists! Written with Javascript and Socket.io and React/Node
 - [SafeVote](https://github.com/Malo-LC/SafeVote): Online voting app (**Javascript**, CSS, **React**, MySQL)
-- [BlindTest](https://github.com/Malo-LC/BlindTest): Music game to play with friends written with Javascript and Socket.io and React/Node
 - [TheorieGraphe](https://github.com/Malo-LC/TheorieGraphe): Graph Theory project written in Python. [Wiki](https://en.wikipedia.org/wiki/Graph_theory)
 - [VSB Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC): Simple CRUD project with Music, written in Javascript. 
 
 #### Personal 🏖
 
-- [Uno](https://github.com/VengaGames/Uno): The Uno game in your browser ! (**Javascript**, Tailwind, **React**, Socket.io, **Node**)
-- [RandoMovie](https://github.com/Malo-LC/RandomMovie): Get random movie and actors suggestions, and recommendations (**Javascript**, Tailwind, **React**, Node)
+- [Uno](https://github.com/VengaGames/Uno): The famous Uno game in your browser ! Play with your friends ! (**Javascript**, Tailwind, **React**, Socket.io, **Node**)
+- [RandoMovie](https://github.com/Malo-LC/RandomMovie): Get random movies and actors suggestions, and get recommendations (**Javascript**, Tailwind, **React**, Node)
 
 
 ![Top Langs]( https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
