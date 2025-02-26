@@ -1,24 +1,51 @@
-### Hi there 👋
+# Hi there 👋  
 
-I am a french software engineering student at [EFREI Paris](https://www.efrei.fr).
+I am a **French Full-Stack Developer** passionate about building interactive and scalable web applications.  
 
+<a href="https://www.linkedin.com/in/malo-le-corvec-6ab98019a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>  
 
-
-<a href="https://www.linkedin.com/in/malo-le-corvec-6ab98019a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-### My projects
-
-#### School 👨‍🎓
-
-- [BlindTest](https://github.com/Malo-LC/BlindTest): Music game to play with friends, play with your personal playlists! Written with Javascript and Socket.io and React/Node
-- [SafeVote](https://github.com/Malo-LC/SafeVote): Online voting app (**Javascript**, CSS, **React**, MySQL)
-- [TheorieGraphe](https://github.com/Malo-LC/TheorieGraphe): Graph Theory project written in Python. [Wiki](https://en.wikipedia.org/wiki/Graph_theory)
-- [VSB Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC): Simple CRUD project with Music, written in Javascript. 
-
-#### Personal 🏖
-
-- [Uno](https://github.com/VengaGames/Uno): The famous Uno game in your browser ! Play with your friends ! (**Javascript**, Tailwind, **React**, Socket.io, **Node**)
-- [RandoMovie](https://github.com/Malo-LC/RandomMovie): Get random movies and actors suggestions, and get recommendations (**Javascript**, Tailwind, **React**, Node)
+## 🚀 About Me  
+- 🔹 Passionate about full-stack development  
+- 🔹 Experienced in **JavaScript (React, Node.js, Express)** and **Java (Spring, MySQL)**  
+- 🔹 Always learning and working on exciting side projects  
 
 
-![Top Langs]( https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)
+## 📌 My Projects  
+
+### 🎓 School Projects  
+
+- **[Internship Manager](https://github.com/Malo-LC/AdvancedProgrammingM2)**  
+  A complete **internship management system** for students, teachers, and admins.  
+  **Tech:** **JavaScript (React, Vite, Tailwind)** | **Java (Spring, MySQL)**  
+
+- **[Music Blind Test](https://github.com/Malo-LC/BlindTest)**  
+  A **real-time multiplayer music quiz** where you can play with your own playlists!  
+  **Tech:** **JavaScript (React, Node.js, Socket.io)**  
+
+- **[SafeVote](https://github.com/Malo-LC/SafeVote)**  
+  An **online voting application** ensuring security and reliability.  
+  **Tech:** **JavaScript (React, MySQL, CSS)**  
+
+- **[Graph Theory](https://github.com/Malo-LC/TheorieGraphe)**  
+  A project focused on **graph theory**, implemented in **Python**.  
+  [Learn more about Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)  
+
+- **[Music CRUD Project](https://github.com/vsb-js/project-02-2021-winter-Malo-LC)**  
+  A simple **CRUD application for music management**.  
+  **Tech:** **JavaScript**  
+
+### 🏖 Personal Projects  
+
+- **[Uno](https://github.com/VengaGames/Uno)**  
+  The classic **Uno card game**, playable online with friends!  
+  **Tech:** **JavaScript (React, Tailwind, Socket.io, Node.js)**  
+
+- **[RandoMovie](https://github.com/Malo-LC/RandomMovie)**  
+  Get **random movie and actor suggestions**, along with recommendations.  
+  **Tech:** **JavaScript (React, Tailwind, Node.js)**  
+
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Malo-LC&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord)  
