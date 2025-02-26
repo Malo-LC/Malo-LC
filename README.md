@@ -42,9 +42,9 @@ I am a **French Full-Stack Developer** passionate about building interactive and
   The classic **Uno card game**, playable online with friends!  
   **Tech:** **JavaScript (React, Tailwind, Socket.io, Node.js)**  
 
-- **[RandoMovie](https://github.com/Malo-LC/RandomMovie)**  
+- **[RandomMovie](https://github.com/Malo-LC/RandomMovie)**  
   Get **random movie and actor suggestions**, along with recommendations.  
-  **Tech:** **JavaScript (React, Tailwind, Node.js)**  
+  **Tech:** **Typescript (React, Tailwind | Node.js, Hono)**  
 
 ## 📊 GitHub Stats  
 
