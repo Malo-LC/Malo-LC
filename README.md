@@ -8,7 +8,7 @@ I am a **French Full-Stack Developer** passionate about building interactive and
 
 ## 🚀 About Me  
 - 🔹 Passionate about full-stack development  
-- 🔹 Experienced in **JavaScript (React, Node.js, Express)** and **Java (Spring, MySQL)**  
+- 🔹 Experienced in **JavaScript & Typescript (React, Node.js, Express, Hono)** and **Java (Spring, MySQL)**  
 - 🔹 Always learning and working on exciting side projects  
 
 
